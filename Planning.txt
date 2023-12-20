@@ -1,0 +1,21 @@
+Game engine
+
+1. Entry point
+2. Application layer
+3. Window layer
+    EventManager - layer system, messaging system when events happen
+4. Renderer
+    Most complicated
+5. Render API abstraction
+    OpenGL -> nice since its cross-platform
+6. Debugging Support
+7. Scripting language built-in
+8. Memory systems for tracking
+9. Entity component system
+10. Physics
+11. File I/O Virtual system
+12. Build system
+
+
+
+
